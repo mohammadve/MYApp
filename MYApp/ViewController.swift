@@ -15,6 +15,10 @@ class ViewController: UIViewController {
 		// Do any additional setup after loading the view, typically from a nib.
         print("Hello")
 	}
+    
+    func callrequest() {
+        print("making an API call")
+    }
 
 
 }
